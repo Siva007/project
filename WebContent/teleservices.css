@@ -1,0 +1,97 @@
+.sbody{background-image:url('bg_clouds.jpg');text-align: left; word-spacing: 0; line-height: 100%; margin-top: 0; margin-bottom: 0;}
+
+.stable1{border-collapse: collapse;}
+.stable2{border-collapse: collapse;}
+
+
+.std1{border-left-style: solid; border-left-width: 1; border-right-style: none; border-right-width: medium; border-top-style: solid; border-top-width: 1;}
+.std2{border-left-style: none; border-left-width: medium; border-right-style: solid; border-right-width: 1; border-top-style: solid; border-top-width: 1;}
+
+
+.std3{border-left-style: solid; border-left-width: 1; border-right-style: solid; border-right-width: 1;}
+.std4{font-family: Tahoma;color: #FFFFFF;}
+
+.stable3{border-collapse: collapse;}
+
+.std5{border-left-style: none; border-left-width: medium;}
+
+
+.stddec{text-decoration: none;}
+
+.std6{border-right-style: solid; border-right-width: 1;}
+
+
+.smarq{border-left-style: solid; border-left-width: 1; border-bottom-style:solid; border-bottom-width:1; border-right-style:solid; border-right-width:1;}
+
+
+.std7{border-left-style: solid; border-left-width: 1;}
+
+.std8{border-right-style: solid; border-right-width: 1;}
+
+
+
+
+
+
+
+.createawebsitediv ul{
+margin: 0;
+padding: 0;
+list-style-type: none;
+width: 200px; /* Width of Menu Items */
+border-bottom: 1px solid blue;
+}
+.createawebsitediv ul li{
+position: relative;
+}
+
+
+
+.createawebsitediv ul li ul{
+position: absolute;
+width: 200px; /*sub menu width*/
+top: 0;
+visibility: hidden;
+}
+
+
+.createawebsitediv ul li a{
+display: block;
+overflow: auto; /*force hasLayout in IE7 */
+color: #333399;
+text-decoration: none;
+background: #D3EDF1;
+padding: 1px 5px;
+border: 1px solid blue;   
+border-bottom: 0;
+}
+
+
+
+
+.createawebsitediv ul li a:visited{
+color: #333399;
+}
+
+
+
+.createawebsitediv ul li a:hover{
+background-color: #89CFF0;
+}
+
+
+.createawebsitediv ul li a:hover{
+color: #FFFFFF;
+}
+
+
+
+.createawebsitediv .subfolderstyle{
+background: #D3EDF1;
+}
+
+ .createawebsitediv ul li { float: left; height: 1%; }
+ .createawebsitediv ul li a { height: 1%; }
+
+
+
